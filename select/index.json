@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "base_track": "KNOW KNOW KNOW",
+  "base_artist": "DOES",
+  "createdAt": "2026-03-18T23:18:38.412657Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KNOW KNOW KNOW",
+      "artist": "Does",
+      "has_synced": true,
+      "path": "select/01_KNOW_KNOW_KNOW_Does.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KNOW KNOW KNOW [anime ver.]",
+      "artist": "Does",
+      "has_synced": true,
+      "path": "select/02_KNOW_KNOW_KNOW_[anime_ver.]_Does.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KNOW KNOW KNOW (anime ver.)",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/03_KNOW_KNOW_KNOW_(anime_ver.)_DOES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/04_KNOW_KNOW_KNOW_DOES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Know Know Know",
+      "artist": "Фенди",
+      "has_synced": false,
+      "path": "select/05_Know_Know_Know_Фенди.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Know Know Know (From \"Gintama 2015\")",
+      "artist": "Pellek",
+      "has_synced": false,
+      "path": "select/06_Know_Know_Know_(From__Gintama_2015_)_Pellek.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": false,
+      "path": "select/pl_01_KNOW_KNOW_KNOW_DOES.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/localdb_01_KNOW_KNOW_KNOW_DOES.lrc",
+      "repo_name": "_HGZBLdn9_c"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/localdb_02_KNOW_KNOW_KNOW_DOES.lrc",
+      "repo_name": "HvC96EaQDmU"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/localdb_03_KNOW_KNOW_KNOW_DOES.lrc",
+      "repo_name": "HoOwOItG4r4"
+    },
+    {
+      "id": "localdb_4",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": false,
+      "path": "select/localdb_04_KNOW_KNOW_KNOW_DOES.txt",
+      "repo_name": "bqzDuRz_P7g"
+    },
+    {
+      "id": "localdb_5",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": false,
+      "path": "select/localdb_05_KNOW_KNOW_KNOW_DOES.txt",
+      "repo_name": "FHn4P9Fyj0M"
+    },
+    {
+      "id": "localdb_6",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/localdb_06_KNOW_KNOW_KNOW_DOES.lrc",
+      "repo_name": "uRQ7ecvU56k"
+    },
+    {
+      "id": "localdb_7",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/localdb_07_KNOW_KNOW_KNOW_DOES.lrc",
+      "repo_name": "bpOSxM0rNPM"
+    },
+    {
+      "id": "localdb_8",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/localdb_08_KNOW_KNOW_KNOW_DOES.lrc",
+      "repo_name": "6B9J3lEyffA"
+    },
+    {
+      "id": "localdb_9",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/localdb_09_KNOW_KNOW_KNOW_DOES.lrc",
+      "repo_name": "VDc9zSpu4Es"
+    },
+    {
+      "id": "localdb_10",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/localdb_10_KNOW_KNOW_KNOW_DOES.lrc",
+      "repo_name": "pqrUQrAcfo4"
+    },
+    {
+      "id": "localdb_11",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/localdb_11_KNOW_KNOW_KNOW_DOES.lrc",
+      "repo_name": "RH-xd5bPKTA"
+    },
+    {
+      "id": "localdb_12",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": false,
+      "path": "select/localdb_12_KNOW_KNOW_KNOW_DOES.txt",
+      "repo_name": "ibOVUcGe3Zg"
+    },
+    {
+      "id": "localdb_13",
+      "source": "localdb",
+      "title": "KNOW KNOW KNOW",
+      "artist": "DOES",
+      "has_synced": false,
+      "path": "select/localdb_13_KNOW_KNOW_KNOW_DOES.txt",
+      "repo_name": "XsCbFpn7fDo"
+    }
+  ]
+}
